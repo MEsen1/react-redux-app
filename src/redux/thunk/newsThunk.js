@@ -17,7 +17,7 @@ export const getAllNews = () => async (dispatch, getState) => {
           "x-bingapis-sdk": "true",
           "x-rapidapi-host": "bing-news-search1.p.rapidapi.com",
           "x-rapidapi-key":
-            "b907a3d365msh835fe561949cc40p166018jsn1d3b860b00ee",
+          {your_key},
         },
       }
     );
